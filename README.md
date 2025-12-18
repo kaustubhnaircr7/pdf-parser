@@ -14,3 +14,6 @@ A powerful local Python application to parse PDF credit card statements from mul
 
 ## 🏦 Supported
 - ICICI, HDFC, Amex, Chase, US Bank, Wells Fargo.
+  
+##  Process of Execution shown in below docs file:
+https://docs.google.com/document/d/1HLemhmer896DHHycsBaFdCQYNJEu7__QZ5n6ydCuUxc/edit?usp=sharing
