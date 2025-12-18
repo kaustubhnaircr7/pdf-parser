@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+myenv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# Junk/Temp Files
+backend/clean_wf.txt
+backend/clean_wf_utf8.txt
+backend/debug_output.txt
+backend/final_verify_wf.py
+backend/final_wf.json
+backend/full_debug_dump.txt
+backend/inspect_wf.py
+backend/test_dedup.py
+backend/wf_output.json
+backend/type_verification.log
+backend/verification_icici.json
+backend/debug_full.py
+backend/debug_dump.py
+backend/verify_types.py
+backend/dump_amex.py
+
+# OS
+.DS_Store
+Thumbs.db
